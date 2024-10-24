@@ -5,7 +5,7 @@ Sebutkan nama pulau dari video tersebut.
 Format flag: CODEX2K24{nama_pulau}
 
 Note:
-Pengambilan nama untuk flag, ditulis tanpa ada kata imbuhan "pulau, kepulauan island" Dan spasi diganti dengan simbol underscroe "_"
+Pengambilan nama untuk flag, ditulis tanpa ada kata imbuhan "pulau, kepulauan, island" Dan spasi diganti dengan simbol underscroe "_"
 Misal:
 Pulau Beras Basah -> CODEX2K24{beras_basah}
 Kepulauan Miangas -> CODEX2K24{miangas}
